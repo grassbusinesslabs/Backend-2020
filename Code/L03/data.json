@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "name": "name1",
+      "age": 23,
+      "city": "Poltava"
+    },
+    {
+      "name": "name2",
+      "age": 30,
+      "city": "Kiev"
+    },
+    {
+      "name": "name3",
+      "age": 20,
+      "city": "Odessa"
+    }
+  ]
+}

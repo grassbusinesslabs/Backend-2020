@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "name1",
+            "age": 23,
+            "city": "Poltava",
+            "money": 230
+        },
+        {
+            "name": "name2",
+            "age": 30,
+            "city": "Kiev",
+            "money": 300
+        },
+        {
+            "name": "name3",
+            "age": 20,
+            "city": "Odessa",
+            "money": 200
+        }
+    ]
+}
